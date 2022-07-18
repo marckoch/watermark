@@ -61,4 +61,4 @@ Set watermark in specific position or in grid form.
 
 just execute this:
 
-    gradle -PmainClass=stage4.MainKt run --console=plain
+    gradle -PmainClass=stage5.MainKt run --console=plain
